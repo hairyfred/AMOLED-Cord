@@ -1,3 +1,8 @@
+This is my personal edit of the theme with a few changes I prefere
+These include
+- No Settings icons
+- No AMOLEDCORD Title bar
+- No Better Discord "Discord font"
 # AMOLED-Cord
 A theme that's nice on your eyes, lights out baby. This is some-what based off of the AMOLED theme that's on Android, but it isn't as dark. This theme is meant for dark mode only.
 
